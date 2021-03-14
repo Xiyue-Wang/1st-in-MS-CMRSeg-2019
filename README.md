@@ -11,15 +11,12 @@ manuscript under review, will be available after manuscript is published.Comming
 
 
 Citation
-If H-DenseUNet is useful for your research, please consider citing:
+If SK-Unet is useful for your research, please consider citing:
 
-@article{li2018h,
-title={H-denseunet: Hybrid densely connected unet for liver and tumor segmentation from ct volumes},
-author={Li, Xiaomeng and Chen, Hao and Qi, Xiaojuan and Dou, Qi and Fu, Chi-Wing and Heng, Pheng-Ann},
-journal={IEEE transactions on medical imaging},
-volume={37},
-number={12},
-pages={2663--2674},
-year={2018},
-publisher={IEEE}
+@article{wang2021sk,
+  title={SK-Unet: An Improved U-net Model with Selective Kernel for the Segmentation of LGE Cardiac MR Images},
+  author={Wang, Xiyue and Yang, Sen and Fang, Yuqi and Wei, Yunpeng and Wang, Minghui and Zhang, Jing and Han, Xiao},
+  journal={IEEE Sensors Journal},
+  year={2021},
+  publisher={IEEE}
 }
