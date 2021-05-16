@@ -18,6 +18,7 @@
 
 # Usage
 > 1. Data Preparation
+> Download challenge data
 
 # Citation
 If SK-Unet is useful for your research, please consider citing:
