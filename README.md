@@ -18,7 +18,7 @@
 
 # Usage
 
-Citation
+# Citation
 If SK-Unet is useful for your research, please consider citing:
 
 @article{wang2021sk,
