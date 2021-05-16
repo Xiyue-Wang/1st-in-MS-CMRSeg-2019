@@ -18,7 +18,7 @@
 
 # Usage
 > 1. Data Preparation
-> Download challenge data
+> Download challenge [data](https://zmiclab.github.io/projects/mscmrseg19/data.html)
 
 # Citation
 If SK-Unet is useful for your research, please consider citing:
