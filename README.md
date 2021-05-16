@@ -17,6 +17,7 @@
 
 
 # Usage
+> 1. Data Preparation
 
 # Citation
 If SK-Unet is useful for your research, please consider citing:
