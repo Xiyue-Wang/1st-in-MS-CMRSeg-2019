@@ -1,13 +1,13 @@
 # 1st-in-MICCAI2019 Multi-sequence Cardiac MR Segmentation Challenge
 # Requirements
->+ torch >=1.2.0
-tqdm
-opencv-python
-numpy
-SimpleITK
-pandas
-scikit-image
-scipy
+>+ torch >=1.3.0
+>+ tqdm
+>+ opencv-python
+>+ numpy
+>+ SimpleITK
+>+ pandas
+>+ scikit-image
+>+ scipy
 
 
 
