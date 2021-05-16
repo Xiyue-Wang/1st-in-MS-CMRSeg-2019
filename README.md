@@ -31,4 +31,4 @@ If SK-Unet is useful for your research, please consider citing:
   publisher={IEEE}
 }
 # Acknowledgement
-Thank Organizers
+Thank Organizers:Xiahai Zhuang,Lei Li,Jiahang Xu,Yuncheng Zhou,Xinzhe Luo
