@@ -4,6 +4,7 @@
 # Overview
 
 # Performance
+![img](https://github.com/Xiyue-Wang/1st-in-MS-CMRSeg-2019/blob/master/img.png?raw=true)
 
 
 
