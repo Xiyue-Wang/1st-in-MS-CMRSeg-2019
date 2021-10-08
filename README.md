@@ -37,8 +37,7 @@ If SK-Unet is useful for your research, please consider citing:
   author={Wang, Xiyue and Yang, Sen and Fang, Yuqi and Wei, Yunpeng and Wang, Minghui and Zhang, Jing and Han, Xiao},
   journal={IEEE Sensors Journal},
   year={2021},
-  publisher={IEEE}
-}
+  publisher={IEEE}}
 ```
 # Acknowledgement
 Thank Organizers:Xiahai Zhuang,Lei Li,Jiahang Xu,Yuncheng Zhou,Xinzhe Luo
