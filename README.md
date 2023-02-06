@@ -1,5 +1,8 @@
 # 1st-in-MICCAI2019 Multi-sequence Cardiac MR Segmentation Challenge
 
+##SK-Unet: An Improved U-net Model with Selective Kernel for the Segmentation of LGE Cardiac MR Images
+
+[Journal Link](https://ieeexplore.ieee.org/document/9343865)
 
 # Overview
 
